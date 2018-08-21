@@ -1,0 +1,10 @@
+{
+  "name": "skyux-omnibar-interop",
+  "mode": "easy",
+  "compileMode": "aot",
+  "testSettings": {
+    "unit": {
+      "browserSet": "paranoid"
+    }
+  }
+}
