@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/blackbaud/skyux-omnibar-interop#readme",
   "peerDependencies": {
-    "@angular/core": ">=4.3.6"
+    "@angular/core": "^9.0.1"
   },
   "dependencies": {},
   "devDependencies": {
