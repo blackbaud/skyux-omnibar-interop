@@ -14,7 +14,8 @@
       "omnibar-interop": [
         "dist/omnibar-interop/omnibar-interop",
         "dist/omnibar-interop"
-      ]
+      ],
+      "@skyux/omnibar-interop": ["projects/omnibar-interop/src/public-api.ts"]
     },
     "target": "es2017",
     "module": "es2020",
