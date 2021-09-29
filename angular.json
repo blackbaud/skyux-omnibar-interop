@@ -32,7 +32,8 @@
             "karmaConfig": "projects/omnibar-interop/karma.conf.js",
             "codeCoverage": true,
             "codeCoverageExclude": [
-              "**/fixtures/**"
+              "**/fixtures/**",
+              "projects/omnibar-interop/src/test.ts"
             ],
             "styles": [
               "@skyux/theme/css/sky.css",
