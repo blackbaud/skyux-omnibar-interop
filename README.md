@@ -1,3 +1,7 @@
-# @skyux/omnibar-interop Workspace
+# @skyux/omnibar-interop (moved)
 
-For information about `@skyux/omnibar-interop` please visit the library's README file, located at `projects/omnibar-interop/README.md`.
+### *The source code for `@skyux/omnibar-interop` has moved to [blackbaud/skyux](https://github.com/blackbaud/skyux).*
+
+To work with the latest version of `@skyux/omnibar-interop`, go to [blackbaud/skyux](https://github.com/blackbaud/skyux).
+
+The source code for SKY UX 4 remains in the [`4.x.x`](https://github.com/blackbaud/skyux-omnibar-interop/tree/4.x.x) branch of this repo.
